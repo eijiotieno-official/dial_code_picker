@@ -1,8 +1,10 @@
 name: dial_code_picker
 description: Streamline your app's user registration with ease! Our Flutter package empowers developers to effortlessly integrate a country dial code picker, enhancing the user experience and simplifying the input of phone numbers. Elevate your registration process with just a few lines of code.
+repository: https://github.com/eijiotieno-official/dial_code_picker
 
 version: 0.0.1
-homepage:
+homepage: https://github.com/eijiotieno-official/dial_code_picker
+
 
 environment:
   sdk: '>=3.1.0 <4.0.0'
