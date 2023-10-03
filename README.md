@@ -1,4 +1,4 @@
-# DialCodePicker
+# CountryDialCodePicker
 
 DialCodePicker package streamline your app's user registration with ease! Our Flutter package empowers developers to effortlessly integrate a country dial code picker, enhancing the user experience and simplifying the input of phone numbers. Elevate your registration process with just a few lines of code.
 
