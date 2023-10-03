@@ -1,4 +1,6 @@
-import 'package:dial_code_picker/dial_code_picker.dart';
+
+
+import 'package:country_dial_code_picker/country_dial_code_picker.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -31,7 +33,7 @@ class _ExampleScreenState extends State<ExampleScreen> {
       body: Center(
         child: FilledButton(
           onPressed: () {
-            DialCodePicker.pickCountry(
+            CountryDialCodePicker.pickCountry(
               context: context,
               accentColor: Colors.redAccent,
               backgroundColor: Colors.white,

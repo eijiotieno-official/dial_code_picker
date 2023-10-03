@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  dial_code_picker:
+  country_dial_code_picker:
     path: ../   
 
 

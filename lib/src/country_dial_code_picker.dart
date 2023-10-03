@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'country.dart';
 import 'picker_screen.dart';
 
-class DialCodePicker {
+class CountryDialCodePicker {
   //Navigates to the PickerScreen and returns the country picked or null if no country is selected
   //Pass custom colors for your PickerScreen
   static Future<Country?> pickCountry({
